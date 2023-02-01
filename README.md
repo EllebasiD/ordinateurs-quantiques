@@ -12,8 +12,7 @@ Il s'agit donc de la deuxième partie de l'UE.
 L’auditeur est placé en situation de totale autonomie pour gérer son temps de travail entre les séances de cours et pour préparer la soutenance finale. Il a intérêt à contacter son tuteur afin de valider la bonne compréhension du sujet et les objectifs à atteindre. Le résultat de son travail est évalué uniquement au terme de cette UE lors de la soutenance finale (jury de validation de cette UE).
 
 CONDITIONS DE VALIDATION :
-Le travail se fait en temps limité (6 à 7 semaines), le document de synthèse doit être composé de 20 à 30 pages. La présentation doit être de 20 minutes devant le jury
-et est suivie de questions réponses pendant environ 10 à 15 minutes devant le jury. 
+Le travail se fait en temps limité (6 à 7 semaines), le sujet est imposé, le document de synthèse doit être composé de 20 à 30 pages. La présentation doit être de 20 minutes devant le jury et est suivie de questions réponses pendant environ 10 à 15 minutes devant le jury. 
 
 Les modalités de validation sont définies par spécialité mais comportent obligatoirement la rédaction d'un document de synthèse et une présentation orale devant un jury présidé par un professeur de la spécialité.
 Nul ne peut se présenter à l'évaluation de cette UE plus de trois fois.
