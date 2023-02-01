@@ -13,7 +13,7 @@ L’auditeur est placé en situation de totale autonomie pour gérer son temps d
 
 CONDITIONS DE VALIDATION :
 Le travail se fait en temps limité (6 à 7 semaines), le document de synthèse doit être composé de 20 à 30 pages. La présentation doit être de 20 minutes devant le jury
-suivie de questions réponses pendant environ 10 à 15 minutes devant le jury. 
+et est suivie de questions réponses pendant environ 10 à 15 minutes devant le jury. 
 
 Les modalités de validation sont définies par spécialité mais comportent obligatoirement la rédaction d'un document de synthèse et une présentation orale devant un jury présidé par un professeur de la spécialité.
 Nul ne peut se présenter à l'évaluation de cette UE plus de trois fois.
